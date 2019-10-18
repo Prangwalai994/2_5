@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducingRider2_5", "IntroducingRider2_5\IntroducingRider2_5.csproj", "{1AC6FB09-6415-469D-987B-466F4F4D4478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest2_5", "UnitTest2_5\UnitTest2_5.csproj", "{DA328287-4754-4476-9ECF-CD54413347EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC6FB09-6415-469D-987B-466F4F4D4478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC6FB09-6415-469D-987B-466F4F4D4478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC6FB09-6415-469D-987B-466F4F4D4478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC6FB09-6415-469D-987B-466F4F4D4478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA328287-4754-4476-9ECF-CD54413347EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA328287-4754-4476-9ECF-CD54413347EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA328287-4754-4476-9ECF-CD54413347EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA328287-4754-4476-9ECF-CD54413347EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E03A147C-104F-4FCC-B6D4-A1CD285E3208}
+	EndGlobalSection
+EndGlobal
